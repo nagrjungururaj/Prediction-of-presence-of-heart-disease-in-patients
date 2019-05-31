@@ -2,6 +2,8 @@
 Prediction of presence of heart disease
 # Problem Statement
 Predicting the presence of heart disease in patients based on a given feature set '1' - presence of heart disease, '0' - healthy person
+# Dataset
+Heart Disease UCI - https://www.kaggle.com/ronitf/heart-disease-uci
 # Approach 
 1. Solution first splits the data into train and test 
 2. Three classifiers random forests, naive bayes and logistic regression are used for prediction.
