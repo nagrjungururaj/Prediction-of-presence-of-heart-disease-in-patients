@@ -1,5 +1,5 @@
 # Prediction-of-presence-of-heart-disease-in-patients
-Prediction-of-presence-of-heart-disease
+Prediction of presence of heart disease
 # Problem Statement
 Predicting the presence of heart disease in patients based on a given feature set '1' - presence of heart disease, '0' - healthy person
 # Approach 
