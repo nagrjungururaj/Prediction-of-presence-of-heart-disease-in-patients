@@ -31,8 +31,7 @@ labels = data[:,-1]
 #Split data with 85% train and 15% test
 x_train, x_test, y_train, y_test = train_test_split(X,labels,test_size=0.15)
 
-# SVM model
-
+# Classifier models
 def get_classifier(classifier):
 
     if classifier == 'forest':
